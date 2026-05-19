@@ -1,4 +1,4 @@
-# Relatório Final — Comparação Monte Carlo vs Faturamento Real
+# Comparação Monte Carlo vs Faturamento Real
 
 ## Descrição do projeto
 
